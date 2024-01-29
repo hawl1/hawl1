@@ -1,8 +1,6 @@
-<p align="center">
-
 <b>im hawli</b>
 
-![](https://komarev.com/ghpvc/?username=hawl1&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=hawl1)
 
 <b>im very swag</b>
 
@@ -10,14 +8,18 @@
 
 <h1>Programming languages i use</h1>
 
-<img src="https://skillicons.dev/icons?i=js,ts,go,lua,py,php,nodejs"/>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,go,lua,py,php,nodejs" />
+</p>
 
 <h1>Web frameworks i use</h1>
 
-<img src="https://skillicons.dev/icons?i=laravel,express,flask"/>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=laravel,express,flask"/>
+</p>
 
 <h1>Other things i use</h1>
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=blender,mysql,figma,docker,webpack,sketchup"/>
-
 </p>

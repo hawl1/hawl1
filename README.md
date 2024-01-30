@@ -6,7 +6,7 @@
 
 <b>im very swag</b>
 
-![](https://github-readme-stats.vercel.app/api?username=hawl1&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats-qbub9jrrc-hawl1.vercel.app/api?username=hawl1&show_icons=true&theme=tokyonight)
 
 <b>me a sbc (roblox clones community) tard</b>
 

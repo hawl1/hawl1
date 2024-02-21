@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,go,lua,py,php,nodejs" />
 </p>
 
-<h>Web frameworks i use:</h1>
+<h1>Web frameworks i use:</h1>
 
 <p>
     <img src="https://skillicons.dev/icons?i=laravel,express,flask"/>

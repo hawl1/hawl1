@@ -1,29 +1,24 @@
-<p align="center">
-    <img src="hawli logo full.svg" />
-</p>
+# I am Hawli.
 
 ![](https://komarev.com/ghpvc/?username=hawl1)
 
-<b>im very swag</b>
+## What does "Hawli" mean?
+- It's means "kewl", which is a cool way of saying "cool".
 
-![](https://github-readme-stats-hawl1.vercel.app/api?username=hawl1&show_icons=true&theme=tokyonight)
+<h1>Programming languages i use:</h1>
 
-<b>me a sbc (roblox clones community) tard</b>
-
-<h1 align="center">Programming languages i use</h1>
-
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=js,ts,go,lua,py,php,nodejs" />
 </p>
 
-<h1 align="center">Web frameworks i use</h1>
+<h>Web frameworks i use:</h1>
 
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=laravel,express,flask"/>
 </p>
 
-<h1 align="center">Other things i use</h1>
+<h1>Other things i use:</h1>
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=blender,mysql,figma,docker,webpack,sketchup"/>
 </p>

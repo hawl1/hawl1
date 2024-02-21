@@ -16,4 +16,4 @@
 
 ## Other things i use:
 
-<img src="https://skillicons.dev/icons?i=blender,mysql,figma,docker,webpack,sketchup"/>
+<img src="https://skillicons.dev/icons?i=blender,figma,sketchup"/>

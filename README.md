@@ -1,5 +1,5 @@
-# I am Hawli.
-
+![status](https://api.statusbadges.me/badge/status/718503475222413353?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/718503475222413353)
 ![](https://komarev.com/ghpvc/?username=hawl1)
 
 ## What does "Hawli" mean?

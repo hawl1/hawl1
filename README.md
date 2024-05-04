@@ -7,13 +7,13 @@
 
 ## Programming languages:
 
-<img src="https://skillicons.dev/icons?i=js,ts,go,lua,py,php,nodejs" />
+<img src="https://talent-icons.hawlidoge.workers.dev/icons?i=js,ts,go,lua,py,php,nodejs" />
 
 ## Web frameworks:
 
-<img src="https://skillicons.dev/icons?i=laravel,express,flask"/>
+<img src="https://talent-icons.hawlidoge.workers.dev/icons?i=laravel,express,flask"/>
 </p>
 
 ## Other things:
 
-<img src="https://skillicons.dev/icons?i=blender,figma,sketchup"/>
+<img src="https://talent-icons.hawlidoge.workers.dev/icons?i=blender,figma,sketchup"/>

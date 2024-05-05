@@ -1,6 +1,8 @@
 ![status](https://api.statusbadges.me/badge/status/718503475222413353?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/718503475222413353)
-![](https://komarev.com/ghpvc/?username=hawl1)
+![views](https://komarev.com/ghpvc/?username=hawl1)
+[![Buy Me a Coffee](https://img.shields.io/badge/buy_me-a_coffee-yellow?logo=buymeacoffee)](https://buymeacoffee.com/hawli)
+
 
 ## What does "Hawli" mean?
 - It's means "kewl", which is a cool way of saying "cool".

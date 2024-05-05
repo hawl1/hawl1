@@ -7,13 +7,12 @@
 
 ## Programming languages:
 
-<img src="https://talent-icons.hawlidoge.workers.dev/icons?i=js,ts,go,lua,py,php,nodejs" />
+![](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,lua,py,php,nodejs)
 
 ## Web frameworks:
 
-<img src="https://talent-icons.hawlidoge.workers.dev/icons?i=laravel,express,flask"/>
-</p>
+![](https://go-skill-icons.vercel.app/api/icons?i=laravel,express,flask)
 
 ## Other things:
 
-<img src="https://talent-icons.hawlidoge.workers.dev/icons?i=blender,figma,sketchup"/>
+![](https://go-skill-icons.vercel.app/api/icons?i=blender,figma,sketchup)

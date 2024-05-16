@@ -19,6 +19,6 @@
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=blender,figma,sketchup)
 
-## Things that i am learning/want to learn
+## Things that i am learning/want to learn:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=haskell,godot,defold,react,million,angular,nix)

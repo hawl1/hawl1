@@ -38,6 +38,9 @@
 |[Talent Icons](https://github.com/hawl1/talent-icons)|Successor of the [Skill Icons](https://github.com/tandpfun/skill-icons) project. Show your talent with ease.|🔴 Discontinued|
 
 ## My stats:
-<a href="#">![Github stats](https://github-readme-stats-hawl1.vercel.app/api?username=hawl1&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hawl1&theme=github_dark_dimmed&count_private=true&line_height=20" height=150>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawl1&theme=github_dark_dimmed&layout=compact" height=150>
+</p>
 
 

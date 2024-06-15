@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hawl1/hawl1/main/hawli%20full%20logo.svg" width=400>
+  <img src="https://raw.githubusercontent.com/hawl1/hawl1/main/hawli%20full%20logo.svg" width=200>
   <br>
   <br>
   <img src="https://api.statusbadges.me/badge/status/718503475222413353?simple=true" alt="Discord Online Status">

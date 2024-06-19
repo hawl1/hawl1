@@ -31,6 +31,7 @@
 
 |Project|Description|Status|
 |-|-|-|
+|[Polytoria-CodeSnippets](https://github.com/hawl1/Polytoria-CodeSnippets)|Code snippets for Polytoria.|🟢 Active|
 |[all-limiteds](https://github.com/hawl1/all-limiteds)|A chart of who owns most limiteds in Polytoria.|🟢 Active|
 |[RBX2PT](https://github.com/hawl1/RBX2PT-web)|Turn your Roblox clothing to Polytoria clothing.|🟢 Active|
 |[hugo-oldbloxxer](https://github.com/hawl1/hugo-oldbloxxer)|A 2007 Roblox ahh looking hugo theme|🟢 Active|

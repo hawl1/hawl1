@@ -4,7 +4,7 @@
   <br>
   <img src="https://api.statusbadges.me/badge/status/718503475222413353?simple=true" alt="Discord Online Status">
   <img src="https://api.statusbadges.me/badge/playing/718503475222413353" alt="Discord Playing Status">
-  <img src="https://komarev.com/ghpvc/?username=hawl1" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=hawl1&label=profile+views" alt="Profile Views">
   <a href="https://buymeacoffee.com/hawli"><img src="https://img.shields.io/badge/buy_me-a_coffee-yellow?logo=buymeacoffee" alt="Buy Me A Coffee"></a>
 </p>
 

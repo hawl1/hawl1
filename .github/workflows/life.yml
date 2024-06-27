@@ -1,4 +1,4 @@
-name: CI
+name: life
 
 on:
   workflow_dispatch:

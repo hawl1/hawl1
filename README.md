@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">Hello!!! I am hawleh (and im not a girl, sorry people)<br>
-<img src="https://media1.tenor.com/m/NIhJkWymJngAAAAC/touhou-satori.gif" alt="Touhou dance" width=450></p>
+<img src="https://raw.githubusercontent.com/hawleh/hawleh/main/skill_issue.gif" alt="Touhou dance" width=450></p>
 </p>
 
 ## My projects:

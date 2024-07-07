@@ -8,6 +8,7 @@
   <br>
   <a href="https://buymeacoffee.com/hawli"><img src="https://img.shields.io/badge/buy_me-a_coffee-yellow?logo=buymeacoffee" alt="Buy Me A Coffee"></a>
   <a href="https://discord.com/users/399854778055917568"><img src="https://img.shields.io/badge/discord-@hvvl-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+   <a><img src="https://img.shields.io/badge/pls_dont_touch_me-@ismetismet-5865F2?" alt="Discord"></a>
 </p>
 
 <p align="center">Hello!!! I am hawleh (and im not a girl, sorry people)<br>

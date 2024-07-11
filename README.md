@@ -10,20 +10,20 @@
 </p>
 
 <p align="center">Hello!!! I am hawleh (and im not a girl, sorry people)<br>
-<img src="https://raw.githubusercontent.com/hawleh/hawleh/main/skill_issue.gif" alt="Touhou dance" width=450></p>
+<img src="https://raw.githubusercontent.com/hawl1/hawl1/main/skill_issue.gif" alt="Touhou dance" width=450></p>
 </p>
 
 ## My projects:
 
 |Project|Description|Status|
 |-|-|-|
-|[Polytoria-CodeSnippets](https://github.com/hawleh/Polytoria-CodeSnippets)|Code snippets for Polytoria.|🟢 Active|
-|[all-limiteds](https://github.com/hawleh/all-limiteds)|A chart of who owns most limiteds in Polytoria.|🟢 Active|
-|[RBX2PT](https://github.com/hawleh/RBX2PT-web)|Turn your Roblox clothing to Polytoria clothing.|🟢 Active|
-|[hugo-oldbloxxer](https://github.com/hawleh/hugo-oldbloxxer)|A 2007 Roblox ahh looking hugo theme|🟢 Active|
-|[Polytoria Item Tracker](https://github.com/hawleh/polytoria-item-tracker)|A Discord bot to track down price changes of limiteds on Polytoria.|🟢 Active|
+|[Polytoria-CodeSnippets](https://github.com/hawl1/Polytoria-CodeSnippets)|Code snippets for Polytoria.|🟢 Active|
+|[all-limiteds](https://github.com/hawl1/all-limiteds)|A chart of who owns most limiteds in Polytoria.|🟢 Active|
+|[RBX2PT](https://github.com/hawl1/RBX2PT-web)|Turn your Roblox clothing to Polytoria clothing.|🟢 Active|
+|[hugo-oldbloxxer](https://github.com/hawl1/hugo-oldbloxxer)|A 2007 Roblox ahh looking hugo theme|🟢 Active|
+|[Polytoria Item Tracker](https://github.com/hawl1/polytoria-item-tracker)|A Discord bot to track down price changes of limiteds on Polytoria.|🟢 Active|
 |[Lunar Hill](https://github.com/lunar-hill)|An attempt to make a Roblox ripoff of a Roblox ripoff|🔴 Not successful|
-|[Talent Icons](https://github.com/hawleh/talent-icons)|Successor of the [Skill Icons](https://github.com/tandpfun/skill-icons) project. Show your talent with ease.|🔴 Discontinued|
+|[Talent Icons](https://github.com/hawl1/talent-icons)|Successor of the [Skill Icons](https://github.com/tandpfun/skill-icons) project. Show your talent with ease.|🔴 Discontinued|
 
 ## Programming languages:
 
@@ -43,8 +43,8 @@
 
 ## My Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawleh&theme=github_dark_dimmed&count_private=true&line_height=20" height=150>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawleh&theme=github_dark_dimmed&layout=compact" height=150>
+  <img src="https://github-readme-stats.vercel.app/api?username=hawl1&theme=github_dark_dimmed&count_private=true&line_height=20" height=150>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawl1&theme=github_dark_dimmed&layout=compact" height=150>
 </p>
 
 

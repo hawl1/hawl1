@@ -16,31 +16,31 @@
 
 ## My projects:
 
-|Project|Description|Status|
-|-|-|-|
-|[Polytoria-CodeSnippets](https://github.com/hawleh/Polytoria-CodeSnippets)|Code snippets for Polytoria.|🟢 Active|
-|[all-limiteds](https://github.com/hawleh/all-limiteds)|A chart of who owns most limiteds in Polytoria.|🟢 Active|
-|[RBX2PT](https://github.com/hawleh/RBX2PT-web)|Turn your Roblox clothing to Polytoria clothing.|🟢 Active|
-|[hugo-oldbloxxer](https://github.com/hawleh/hugo-oldbloxxer)|A 2007 Roblox ahh looking hugo theme|🟢 Active|
-|[Polytoria Item Tracker](https://github.com/hawleh/polytoria-item-tracker)|A Discord bot to track down price changes of limiteds on Polytoria.|🟢 Active|
-|[Lunar Hill](https://github.com/lunar-hill)|An attempt to make a Roblox ripoff of a Roblox ripoff|🔴 Not successful|
-|[Talent Icons](https://github.com/hawleh/talent-icons)|Successor of the [Skill Icons](https://github.com/tandpfun/skill-icons) project. Show your talent with ease.|🔴 Discontinued|
+|Project|Description|
+|-|-|
+|[Polytoria-CodeSnippets](https://github.com/hawleh/Polytoria-CodeSnippets)|Code snippets for Polytoria.|
+|[all-limiteds](https://github.com/hawleh/all-limiteds)|A chart of who owns most limiteds in Polytoria.|
+|[RBX2PT](https://github.com/hawleh/RBX2PT-web)|Turn your Roblox clothing to Polytoria clothing.|
+|[hugo-oldbloxxer](https://github.com/hawleh/hugo-oldbloxxer)|A 2007 Roblox ahh looking hugo theme|
+|[Polytoria Item Tracker](https://github.com/hawleh/polytoria-item-tracker)|A Discord bot to track down price changes of limiteds on Polytoria.|
+|[Lunar Hill](https://github.com/lunar-hill)|An unsuccessful attempt to make a Roblox ripoff of a Roblox ripoff|
+|[Talent Icons](https://github.com/hawleh/talent-icons)|Successor of the [Skill Icons](https://github.com/tandpfun/skill-icons) project. Show your talent with ease. Discontinued.|
 
 ## Programming languages:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,lua,py,php,nodejs)
+![](https://go-skill-icons.vercel.app/api/icons?i=cs,go,js,lua,php,py,ts)
 
-## Web frameworks:
+## Frameworks and tools:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=laravel,express,flask)
+![](https://go-skill-icons.vercel.app/api/icons?i=alpinejs,express,flask,hugo,laravel)
 
 ## Other things:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=blender,figma,sketchup,alpinejs,nix)
+![](https://go-skill-icons.vercel.app/api/icons?i=blender,figma,sketchup)
 
-## Things that i am learning/want to learn:
+## Things that i am learning/want to learn/be able to use:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=haskell,godot,defold,react,million,angular,cs)
+![](https://go-skill-icons.vercel.app/api/icons?i=angular,defold,godot,haskell,k8s,million,neovim,react)
 
 ## My Stats:
 <p align="center">

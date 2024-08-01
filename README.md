@@ -32,7 +32,7 @@
 
 ## Frameworks and tools:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=alpinejs,express,flask,hugo,laravel)
+![](https://go-skill-icons.vercel.app/api/icons?i=alpinejs,bootstrap,express,flask,hugo,laravel,sass,tailwind)
 
 ## Other things:
 
